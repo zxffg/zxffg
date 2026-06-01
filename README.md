@@ -4,6 +4,7 @@
   Python разработчик · Backend & Data Science<br/>
   Открыт на Junior поизицию &nbsp;|&nbsp; [Екатеринбург]
 </p>
+
 ---
 
 ## Обо мне
@@ -15,6 +16,7 @@
 - Статус: Junior Backend or Junior Data Science
 
 ---
+
 ## Stack
 
 Python 3.14, PostgreSQL, Redis, Git, VScode
