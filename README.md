@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28478585/README.md)
-<h1 align="center">[Влад]</h1>
+<h1 align="center">[Владислав]</h1>
 
 <p align="center">
   Python разработчик · Backend & Data Science<br/>
@@ -10,12 +9,12 @@
 
 ## About
 
-Python developer focused on backend systems and data analysis.
-I build things that work reliably — from database schemas to REST APIs.
-Currently expanding into ML and data pipelines.
+Разработчик Python, специализируюзь на серверных системах и анализе данных.
+Я создаю системы, которые надежно работают, например — схемы баз данных.
+В настоящее время расширяюсь до ML и аналитики данных передачи данных.
 
 - Core: Python · PostgreSQL · Redis
-- Looking for: Junior Backend or Junior Data Science role
+- Статус: Junior Backend or Junior Data Science
 
 ---
 
