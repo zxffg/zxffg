@@ -21,7 +21,9 @@
 ## Stack
 Python 3.14, PostgreSQL, Redis, Git, VScode
 
-<img src="./dir.png" width="150" align="centre" />
+<p align="center">
+  <img src="./dir.png" width="200" />
+</p>
 
 ---
 
