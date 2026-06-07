@@ -14,6 +14,8 @@
 В планах: pandas, NumPy
 
 - Core: Python · PostgreSQL · Redis
+- Изучаю: pandas, LLM архитектура
+
 - Статус: Junior Backend or Junior Data Science
 
 ---
