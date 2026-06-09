@@ -13,16 +13,16 @@
 В настоящее время расширяюсь до ML и аналитики данных.
 В планах: pandas, NumPy
 
-- Core: Python · PostgreSQL · Redis
-- Изучаю: pandas, LLM архитектура
+- Core: Python · PostgreSQL · Redis · Pandas
+- Изучаю: LLM архитектура, NumPy
 
-- Статус: Junior Backend or Junior Data Science
+- В поиске: Junior Backend or Junior Data Science
 
 ---
 
 ## Stack
 
-Python 3.14, PostgreSQL, Redis, Git, VScode
+Python 3.14, PostgreSQL, Redis, Pandas, Git, VScode
 
 ---
 
