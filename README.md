@@ -11,10 +11,10 @@
 Разработчик Python, специализируюсь на серверных системах и анализе данных.
 Создаю системы, которые надежно работают, например — схемы баз данных.
 В настоящее время расширяюсь до ML и аналитики данных.
-В планах: pandas, NumPy
+В планах: NumPy, MatploLib
 
 - Core: Python · PostgreSQL · Redis · Pandas
-- Изучаю: LLM архитектура, NumPy
+- Изучаю: LLM архитектура, NumPy, MatploLib
 
 - В поиске: Junior Backend or Junior Data Science
 
