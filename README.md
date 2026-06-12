@@ -18,8 +18,6 @@
 
 - В поиске: Junior Backend or Junior Data Science
 
----
-
 ## Stack
 
 Python 3.14, PostgreSQL, Redis, Pandas, Git, VScode
