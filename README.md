@@ -1,2 +1,2 @@
-<h1 align="center">владислав</h1>
+#владислав
 [Telegram](https://t.me/vladnowords) · vladkabaev99@gmail.com
